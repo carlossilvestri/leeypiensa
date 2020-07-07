@@ -1,0 +1,30 @@
+/*Algunos estilos especificos de la barra.*/
+
+.dropdown-toggle::after {
+    margin-top: 20px;
+}
+
+.b-white {
+    background-color: white;
+}
+
+select {
+    margin-top: 5rem;
+}
+
+.black {
+    color: black;
+}
+
+.navbar-nav {
+    /* margin: 0 0 0 auto; */
+    width: 100%;
+}
+
+.mgauto0 {
+    margin: auto 0;
+}
+
+.mg0auto {
+    margin: 0 auto;
+}
